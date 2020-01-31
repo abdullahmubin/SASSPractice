@@ -1,0 +1,26 @@
+body {
+  background: #272727;
+  color: #fff;
+}
+
+.main {
+  width: 90%;
+  margin: 5px auto;
+}
+
+.main .main__paragraph {
+  font-weight: 700;
+}
+
+.main .main__paragraph:hover {
+  color: pink;
+}
+
+.main .second_paragraph {
+  font-weight: 500;
+}
+
+.main .second_paragraph:hover {
+  color: purple;
+}
+/*# sourceMappingURL=main.css.map */
